@@ -1,0 +1,47 @@
+Arroz,2 Pacotes
+Feijão,4 Pacotes
+Sal,1 Pacote
+Sal Grosso, 1 Pacote
+Oleo, 3 Garrafas
+Azeite, 1
+Manteiga, 4
+Fosforo, 1
+Temperos,Diversos
+Creme de Cebola, 5 pacotes
+Creme de Leite, 8 
+Leite Condensado, 10
+Vinagre, 1
+Tomate, 
+Cebola,
+Alho,
+Cheiro Verde, 3
+Farinha Temp, 3
+Massa de Tomate, 15 pacote
+Macarrão, 7
+Queijo Ralado, 15 pacotes
+Nescau e Toddy, 
+Maionese, 5 Pacotes
+Ketchup e Mostarda, 1
+Batata Palha, 2 pacotes
+Batata, 5kg
+Palmito, 2 Vidros
+Latas de Milho, 2 
+Salsicha, 2 Pacotes
+Banana, 
+Maracujá,
+Nuggets,
+Requeijão, 
+Laranja, 
+Manga,
+Limão,
+Leite, 2 caixas  
+Açucar, 5kg
+Café, 5 pacotes
+Filtro de Café, 2 pacotes
+Ovo, 3 Bandeija
+Maça, 
+Alface,
+Bacon,
+Cenoura,
+Azeitona, 2 pacotes
+Pão puma, 3 pacotes
