@@ -15,6 +15,10 @@ Instead of writing everything by hand, I built a small terminal tool to register
 
 I used AI Claude to help me write the connection with `pyoo` and the LibreOffice UNO integration.
 
+## Contributions
+
+I'm open to receiving pull requests and contributions! Feel free to fork this project, make improvements, and submit your PRs. Any feedback or ideas are welcome!
+
 ## Requirements
 
 - Python 3.14+
